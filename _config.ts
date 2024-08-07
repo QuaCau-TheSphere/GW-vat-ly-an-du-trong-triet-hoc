@@ -1,7 +1,9 @@
 import lume from "lume/mod.ts";
 import wiki from "wiki/mod.ts";
 
-const site = lume();
+const site = lume({
+  location: new URL("https://quacau-thespher.github.io/GW-vat-ly-an-du-trong-triet-hoc"),
+});
 
 site.use(wiki());
 
