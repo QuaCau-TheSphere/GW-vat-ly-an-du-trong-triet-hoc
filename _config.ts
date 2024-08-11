@@ -16,8 +16,8 @@ site.use(wiki({
     input: "assets/favicon.svg"
   }
 }));
-site.use(metas());
 site.use(ogImages());
+site.use(metas());
 
 
 export default site;

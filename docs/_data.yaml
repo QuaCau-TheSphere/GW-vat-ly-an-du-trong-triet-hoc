@@ -6,3 +6,4 @@ metas:
   generator: true
 
 openGraphLayout: og_image.jsx
+extra_head: <div>AAAAAAAAAAAAAA</div>
