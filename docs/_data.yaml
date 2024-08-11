@@ -1,0 +1,7 @@
+metas:
+  site: Vật lý
+  lang: vi
+  generator: true
+openGraphLayout: og_images.jsx
+
+extraHead: <div>AAAAAAAAAAAAAAAAAAAAAAAAAAAAA</div>
