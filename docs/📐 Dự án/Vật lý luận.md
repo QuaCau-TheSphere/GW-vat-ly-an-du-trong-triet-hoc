@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-03T19:47
-updated: 2024-08-11T18:26
+updated: 2024-08-11T22:01
 ---
 Vật lý cho người học triết: dao động tử điều hoà, deleuze 
 Tính cường độ
@@ -14,9 +14,6 @@ Hiện tại trong những mô hình như vậy mà tôi biết thì thành côn
 
 Vậy nếu ta có thể giải thích được "mối quan tâm" là gì trên phương diện vật lý, thì các khái niệm như "bản ngã", "sự chú ý", "tinh thần", v.v. cũng sẽ được giải thích theo. Tôi nghĩ rằng con đường để kết nối "tinh thần" với "vật chất" có thể được hiểu rõ hơn nếu khái niệm "dao động tử điều hòa" được chú ý và phổ cập rộng rãi hơn.
 
-Có vẻ như hiện nay ta chưa tìm được ranh giới rõ ràng giữa kích thích sinh lý và kích thích tâm lý. Ví dụ, khi một một con rắn từ trên trời rơi xuống đầu bạn và làm bạn giật bắn người, thì sự hoảng sợ đó là kết quả của kích thích sinh lý (photon đập vào mắt từ con rắn) hay kích thích tâm lý (con rắn)? Hoặc khi bộ phận sinh dục được tác động (ve vuốt, ấn, nắn, v.v.), thì sự cực khoái là kết quả của kích thích sinh lý hay kích thích tâm lý? Có vẻ như các kích thích tâm lý không thể nào có nếu không có các kích thích sinh lý, và cứ hễ có kích thích sinh lý thì nhất định sẽ có kích thích tâm lý. Vậy thay vì cố tìm định nghĩa để phân biệt chúng ra, liệu ta có thể đặt ra một giả thiết rằng chúng là một?
-
-Duy vật lý dưới góc nhìn của vật lý và tâm lý học nhận thức
 
 Ta hãy làm rõ câu hỏi vừa nêu hơn bằng việc khảo sát xem tới mức nào thì nói một quá trình của sự sống (tức "tinh thần") là "chỉ có các kích thích sinh lý" bắt đầu trở nên không thoải mái. Đầu tiên là hình thái sống đơn giản nhất: các sinh vật đơn bào. Có lẽ ai cũng sẽ đồng ý rằng chúng thì không có "ý thức", "tinh thần", hay "kích thích tâm lý" nào cả. Bạn sẽ thoải mái khi nói là chúng chỉ là tổ hợp các kích thích sinh lý, vốn được tạo thành từ các dđt. Sự khác biệt giữa các sinh vật đơn bào này với các hệ vật lý khác là chúng có khả năng tự sao chép chính mình, chỉ vậy thôi.
 
@@ -39,12 +36,6 @@ Con nghĩ mình có thể bắt đầu bằng câu hỏi "tiến hóa/chuyên m�
 
 Câu hỏi đó chắc dễ hơn, vì ta có hẳn một ngành tối ưu hóa bên toán? Có lẽ là làm sao để có nhiều dao động tử trong chuỗi Fourier được cộng hưởng nhất?
 
-Tài liệu tham khảo:
-
-- [Is there a difference between physiological stimulations and psychological stimulations?](https://psychology.stackexchange.com/q/19992/12937)
-- [LÀ DƠI THÌ NHƯ THẾ NÀO? (THOMAS NAGEL) – Nguyễn Thị Minh, Bùi Văn Nam Sơn, Nguyễn Trung Hậu dịch – NGUYỄN THỊ MINH blog](https://nguyenthiminh1985.wordpress.com/2019/08/03/la-doi-thi-nhu-the-nao-thomas-nagel/)
-- [What is the self if not that which pays attention? | Aeon Essays](https://aeon.co/essays/what-is-the-self-if-not-that-which-pays-attention)
-- [Reconciling two views of information | Santa Fe Institute](https://www.santafe.edu/news-center/news/reconciling-two-views-information)
 
 Đâu là sự khác nhau giữa nghệ thuật xiếc đạp xe, một trận đấu hiphop, và cờ vây? Một cái phải có sự tương tác giữa ý thức và sự vật, và một cái chỉ thuần ý thức.
 
@@ -74,7 +65,6 @@ Every specialty seems to about tuning a set of oscillators
 
 [https://cosmosmagazine.com/biology/bird-beak-evolution-traced-with-a-little-help-from-citizen-scientists](https://cosmosmagazine.com/biology/bird-beak-evolution-traced-with-a-little-help-from-citizen-scientists)
 
-So if all cognitive process (attention, memory, problem-solving) are to optimize the environment, then would it be reasonable to conclude that
 
 What we memorize is the combination of Fourier transform
 
@@ -105,13 +95,5 @@ Tôi nghĩ bạn sẽ thích đọc những cuốn như
 
 và hàng trăm cuốn khác
 
-[Vấn đề của các sách vật lý viết cho độc giả phổ thông là chúng bị bám vào lịch sử phát triển của vật lý](V%E1%BA%A5n%20%C4%91%E1%BB%81%20c%E1%BB%A7a%20c%C3%A1c%20s%C3%A1ch%20v%E1%BA%ADt%20l%C3%BD%20vi%E1%BA%BFt%20cho%20%C4%91%E1%BB%99c%20gi%E1%BA%A3%20ph%E1%BB%95%20th%C3%B4ng%20l%C3%A0%20ch%C3%BAng%20b%E1%BB%8B%20b%C3%A1m%20v%C3%A0o%20l%E1%BB%8Bch%20s%E1%BB%AD%20ph%C3%A1t%20tri%E1%BB%83n%20c%E1%BB%A7a%20v%E1%BA%ADt%20l%C3%BD.md) 
+[Sử dụng vật lý để làm các ví dụ trở nên chặt chẽ hơn](./S%E1%BB%AD%20d%E1%BB%A5ng%20v%E1%BA%ADt%20l%C3%BD%20%C4%91%E1%BB%83%20l%C3%A0m%20c%C3%A1c%20v%C3%AD%20d%E1%BB%A5%20tr%E1%BB%9F%20n%C3%AAn%20ch%E1%BA%B7t%20ch%E1%BA%BD%20h%C6%A1n/index.md) 
 
-| Khái niệm                                  | Chủ đề triết học quan tâm tới khái niệm này | Chủ đề vật lý xử lý khái niệm này           |
-| ------------------------------------------ | ------------------------------------------- | ------------------------------------------- |
-| [Sự tối ưu hoá](./S%E1%BB%AD%20d%E1%BB%A5ng%20v%E1%BA%ADt%20l%C3%BD%20%C4%91%E1%BB%83%20l%C3%A0m%20c%C3%A1c%20v%C3%AD%20d%E1%BB%A5%20tr%E1%BB%9F%20n%C3%AAn%20ch%E1%BA%B7t%20ch%E1%BA%BD%20h%C6%A1n/S%E1%BB%B1%20t%E1%BB%91i%20%C6%B0u%20ho%C3%A1.md)                          | Tư bản                                      | Nguyên lý tác dụng tối thiểu                |
-| Sóng, rung động, cường độ                  | Tâm linh, Deleuze                           | Dao động tử điều hoà, phép biến đổi Fourier |
-|                                            | Động học niềm tin                           | Mô hình Ising                               |
-| [Tính lỏng](./S%E1%BB%AD%20d%E1%BB%A5ng%20v%E1%BA%ADt%20l%C3%BD%20%C4%91%E1%BB%83%20l%C3%A0m%20c%C3%A1c%20v%C3%AD%20d%E1%BB%A5%20tr%E1%BB%9F%20n%C3%AAn%20ch%E1%BA%B7t%20ch%E1%BA%BD%20h%C6%A1n/T%C3%ADnh%20l%E1%BB%8Fng.md)                              | Nữ quyền                                    | Cơ học chất lưu                             |
-| [Sự đối xứng](./S%E1%BB%AD%20d%E1%BB%A5ng%20v%E1%BA%ADt%20l%C3%BD%20%C4%91%E1%BB%83%20l%C3%A0m%20c%C3%A1c%20v%C3%AD%20d%E1%BB%A5%20tr%E1%BB%9F%20n%C3%AAn%20ch%E1%BA%B7t%20ch%E1%BA%BD%20h%C6%A1n/S%E1%BB%B1%20%C4%91%E1%BB%91i%20x%E1%BB%A9ng.md)                            | Đạo đức, paradox of reputation                                    | Lý thuyết nhóm                              |
-| [Điểm vô tận](./S%E1%BB%AD%20d%E1%BB%A5ng%20v%E1%BA%ADt%20l%C3%BD%20%C4%91%E1%BB%83%20l%C3%A0m%20c%C3%A1c%20v%C3%AD%20d%E1%BB%A5%20tr%E1%BB%9F%20n%C3%AAn%20ch%E1%BA%B7t%20ch%E1%BA%BD%20h%C6%A1n/%C4%90i%E1%BB%83m%20v%C3%B4%20t%E1%BA%ADn.md), [Đường thẳng song song](./S%E1%BB%AD%20d%E1%BB%A5ng%20v%E1%BA%ADt%20l%C3%BD%20%C4%91%E1%BB%83%20l%C3%A0m%20c%C3%A1c%20v%C3%AD%20d%E1%BB%A5%20tr%E1%BB%9F%20n%C3%AAn%20ch%E1%BA%B7t%20ch%E1%BA%BD%20h%C6%A1n/%C4%90%C6%B0%E1%BB%9Dng%20th%E1%BA%B3ng%20song%20song.md) | Sự vĩnh cửu, sự bất khả                     | Hình học xạ ảnh                             |

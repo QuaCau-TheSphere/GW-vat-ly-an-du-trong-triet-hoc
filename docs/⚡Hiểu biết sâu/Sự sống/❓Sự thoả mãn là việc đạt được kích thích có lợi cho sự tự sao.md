@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-04T02:55
-updated: 2024-08-11T18:08
+updated: 2024-08-11T21:50
 ---
 Khái niệm:: [Tự sao](../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/S%E1%BB%B1%20s%E1%BB%91ng,%20nh%E1%BA%ADn%20th%E1%BB%A9c/T%E1%BB%B1%20sao.md), [Thoả mãn](Tho%E1%BA%A3%20m%C3%A3n.md), [Kích thích](../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/S%E1%BB%B1%20s%E1%BB%91ng,%20nh%E1%BA%ADn%20th%E1%BB%A9c/K%C3%ADch%20th%C3%ADch.md)
 
