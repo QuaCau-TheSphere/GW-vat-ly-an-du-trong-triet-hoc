@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-04T02:22
-updated: 2024-08-11T18:08
+updated: 2024-08-11T21:57
 ---
 Khái niệm:: [Hành vi](../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/S%E1%BB%B1%20s%E1%BB%91ng,%20nh%E1%BA%ADn%20th%E1%BB%A9c/H%C3%A0nh%20vi.md), [Môi trường](../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/S%E1%BB%B1%20s%E1%BB%91ng,%20nh%E1%BA%ADn%20th%E1%BB%A9c/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng.md), [Kích thích sinh lý](../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/S%E1%BB%B1%20s%E1%BB%91ng,%20nh%E1%BA%ADn%20th%E1%BB%A9c/K%C3%ADch%20th%C3%ADch%20sinh%20l%C3%BD.md), [Kích thích tâm lý](../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/S%E1%BB%B1%20s%E1%BB%91ng,%20nh%E1%BA%ADn%20th%E1%BB%A9c/K%C3%ADch%20th%C3%ADch%20t%C3%A2m%20l%C3%BD.md), [Kích thích](../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/S%E1%BB%B1%20s%E1%BB%91ng,%20nh%E1%BA%ADn%20th%E1%BB%A9c/K%C3%ADch%20th%C3%ADch.md)
 Hành vi của sinh vật chịu tác động bởi các kích thích từ môi trường, và người ta chia kích thích ra thành hai loại:
@@ -14,3 +14,4 @@ Hành vi của sinh vật chịu tác động bởi các kích thích từ môi 
 [❓Sự chánh niệm sâu bản chất là hạn chế kích thích tâm lý càng nhiều càng tốt](../Tri%E1%BA%BFt%20h%E1%BB%8Dc/%E2%9D%93S%E1%BB%B1%20ch%C3%A1nh%20ni%E1%BB%87m%20s%C3%A2u%20b%E1%BA%A3n%20ch%E1%BA%A5t%20l%C3%A0%20h%E1%BA%A1n%20ch%E1%BA%BF%20k%C3%ADch%20th%C3%ADch%20t%C3%A2m%20l%C3%BD%20c%C3%A0ng%20nhi%E1%BB%81u%20c%C3%A0ng%20t%E1%BB%91t.md) 
 [❓Sự thoả mãn là việc đạt được kích thích có lợi cho sự tự sao](./%E2%9D%93S%E1%BB%B1%20tho%E1%BA%A3%20m%C3%A3n%20l%C3%A0%20vi%E1%BB%87c%20%C4%91%E1%BA%A1t%20%C4%91%C6%B0%E1%BB%A3c%20k%C3%ADch%20th%C3%ADch%20c%C3%B3%20l%E1%BB%A3i%20cho%20s%E1%BB%B1%20t%E1%BB%B1%20sao.md) 
 [❓Có sự đồng nhất giữa kích thích tâm lý và kích thích sinh lý](../Nh%E1%BA%ADn%20th%E1%BB%A9c/%E2%9D%93C%C3%B3%20s%E1%BB%B1%20%C4%91%E1%BB%93ng%20nh%E1%BA%A5t%20gi%E1%BB%AFa%20k%C3%ADch%20th%C3%ADch%20t%C3%A2m%20l%C3%BD%20v%C3%A0%20k%C3%ADch%20th%C3%ADch%20sinh%20l%C3%BD.md)
+[❓Mối quan hệ giữa kích thích sinh lý và kích thích tâm lý chính là mối quan hệ giữa hai góc nhìn về thông tin](../Nh%E1%BA%ADn%20th%E1%BB%A9c/%E2%9D%93M%E1%BB%91i%20quan%20h%E1%BB%87%20gi%E1%BB%AFa%20k%C3%ADch%20th%C3%ADch%20sinh%20l%C3%BD%20v%C3%A0%20k%C3%ADch%20th%C3%ADch%20t%C3%A2m%20l%C3%BD%20ch%C3%ADnh%20l%C3%A0%20m%E1%BB%91i%20quan%20h%E1%BB%87%20gi%E1%BB%AFa%20hai%20g%C3%B3c%20nh%C3%ACn%20v%E1%BB%81%20th%C3%B4ng%20tin.md)
