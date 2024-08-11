@@ -1,7 +1,0 @@
-metas:
-  site: Vật lý
-  icon: /img/icon.png
-  lang: vi
-  generator: true
-
-openGraphLayout: og_images.jsx
