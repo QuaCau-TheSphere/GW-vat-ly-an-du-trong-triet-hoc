@@ -5,4 +5,4 @@ metas:
   lang: vi
   generator: true
 
-openGraphLayout: og_images.jsx
+openGraphLayout: og_image.jsx

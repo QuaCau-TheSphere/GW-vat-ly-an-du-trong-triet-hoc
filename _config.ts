@@ -5,7 +5,10 @@ import ogImages from "lume/plugins/og_images.ts";
 
 const site = lume({
   src: "./docs",
-  location: new URL("https://vậtlý.quảcầu.cc")
+  location: new URL("https://vậtlý.quảcầu.cc"),
+  server: {
+    open: true,
+  },
 });
 
 site.use(wiki({
