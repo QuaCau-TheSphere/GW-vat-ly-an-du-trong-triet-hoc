@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-04T02:01
-updated: 2024-08-11T18:08
+updated: 2024-08-12T18:12
 ---
 Khái niệm:: [Dao động tử](../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/V%E1%BA%ADt%20l%C3%BD/Dao%20%C4%91%E1%BB%99ng%20t%E1%BB%AD.md), [Entropy](../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/V%E1%BA%ADt%20l%C3%BD/Entropy.md), [Tác dụng](../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/V%E1%BA%ADt%20l%C3%BD/T%C3%A1c%20d%E1%BB%A5ng.md)
 
