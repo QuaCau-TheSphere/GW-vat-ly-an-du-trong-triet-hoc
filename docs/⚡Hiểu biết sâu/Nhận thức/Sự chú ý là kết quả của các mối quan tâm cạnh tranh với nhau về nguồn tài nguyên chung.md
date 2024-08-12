@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-03T21:17
-updated: 2024-08-11T18:08
+updated: 2024-08-12T00:56
 ---
 Cái mà ta gọi là bản ngã, tôi xem nó là một tập hợp các mối quan tâm kết hợp với nhau, vốn không phải là một mối quan tâm đơn lẻ hoặc là tổng cơ học của từng mối quan tâm đơn lẻ. Nói cách khác, không phải việc bạn thích ăn mỳ udon, yêu thơ ca và hoa lily sẽ tạo nên bản ngã của bạn, mà nó là sự kết hợp giữa các mối quan tâm đó và các mối quan tâm khác nữa, tất cả sẽ cùng làm việc với nhau để định hướng hành vi của bạn.
 
