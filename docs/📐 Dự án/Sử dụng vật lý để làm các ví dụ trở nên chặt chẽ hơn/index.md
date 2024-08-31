@@ -6,6 +6,8 @@ title: Sử dụng vật lý để làm các ví dụ trở nên chặt chẽ h�
 ---
 Tôi không phủ nhận kiến thức chúng trình bày là chính xác, và đã miêu tả được vẻ đẹp của vật lý. Nhưng chúng vô tình khiến cho những ai khi nói đến vật lý sẽ nhớ đến các khái niệm như "thuyết tương đối", "lực hấp dẫn", "không thời gian", "hố đen", "cơ học lượng tử", "nguyên lý bất định", "hiệu ứng cánh bướm", v.v. Chúng vốn là các thành tựu của vật lý thế kỷ 20, nhưng khi quá tập trung vào những chủ đề này, thì những gì cốt lõi của vật lý đã bị bỏ quên. Bản thân tôi cũng nghĩ nhiều nhà vật lý cũng không để ý đến điều này. Theo tôi nghĩ, nếu phải miêu tả thế giới vật lý trong hai từ, thì đó sẽ là tính đối xứng và dao động tuần hoàn.
 
+Không chú trọng trích dẫn từ các bài nghiên cứu. Có thì tốt. Nó là câu hỏi: ở hình thức nào thì có thể yên tâm vào sự hiểu của mình
+
 | Khái niệm                                  | Chủ đề triết học quan tâm tới khái niệm này | Chủ đề vật lý xử lý khái niệm này           |
 | ------------------------------------------ | ------------------------------------------- | ------------------------------------------- |
 | [Sự tối ưu hoá](./S%E1%BB%B1%20t%E1%BB%91i%20%C6%B0u%20ho%C3%A1.md)                          | Tư bản                                      | Nguyên lý tác dụng tối thiểu                |

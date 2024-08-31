@@ -7,6 +7,10 @@ Vật lý cho người học triết: dao động tử điều hoà, deleuze
 Tính cường độ
 
 Cứ liệt kê các câu hỏi, trả lời được tới đâu thì tới
+https://academia.stackexchange.com/q/26277/14341
+
+Bởi vì [Ẩn dụ là nền tảng của mọi suy nghĩ và lập luận](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%E1%BA%A8n%20d%E1%BB%A5/%E1%BA%A8n%20d%E1%BB%A5%20l%C3%A0%20n%E1%BB%81n%20t%E1%BA%A3ng%20c%E1%BB%A7a%20m%E1%BB%8Di%20suy%20ngh%C4%A9%20v%C3%A0%20l%E1%BA%ADp%20lu%E1%BA%ADn.md), nên mọi sự phê bình người khác dùng ẩn dụ quá đà rồi cũng sẽ là tự phê bình mà thôi. Thay vì vậy
+[Tranh luận người thép](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Tri%E1%BA%BFt%20h%E1%BB%8Dc/Tranh%20lu%E1%BA%ADn%20ng%C6%B0%E1%BB%9Di%20th%C3%A9p.md)
 
 Tôi thấy rất nhiều người tạo ra các mô hình trong lĩnh vực xã hội dựa trên các mô hình vật lý. Nhưng tôi thấy đa phần chẳng đi xa hơn mấy chữ "cảm hứng ban đầu" hay là "gợi ý ban đầu". Phép so sánh là một công cụ mạnh cho việc tư duy, nhưng chỉ dừng ở đó thì tôi thấy chưa vét cạn hết được tiềm năng của nó, khá là phí. Chưa kể còn dễ bị rơi vào false analogy fallacy. Mà vậy thì sẽ làm những người hiểu bản chất mô hình thấy rất là khó chịu. Giống như bạn hiểu về cơ lượng tử, thuyết tương đối là gì, rồi xem phim Marvel cứ phải nghe mấy cái buzzword đó nó rất là buồn cười. Tôi biết nó chỉ là phim để giải trí, rồi thì nghệ thuật thì quan trọng là sáng tạo chứ không phải đúng sai, nhưng tôi mà nghe mấy cái từ đó là cụt hết cả hứng xem. Để giải quyết được chuyện này thì trước hết phải làm cho phép so sánh của mình vững chắc hơn đã. Và nó bắt đầu bằng việc hiểu được bản chất toán học của mô hình. Tôi có viết bài cụ thể ở đây: [Making concrete analogy and big picture](https://lyminhnhat.com/concrete-analogies-big-pictures/?utm_source=Discord+%C2%BB+Qu%E1%BA%A3+C%E1%BA%A7u+%C2%BB+ph%C3%A9p+so+s%C3%A1nh&utm_medium=chat&utm_campaign=Nghi%C3%AAn+c%E1%BB%A9u+li%C3%AAn+ng%C3%A0nh).
 
