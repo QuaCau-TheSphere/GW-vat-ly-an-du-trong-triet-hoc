@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2024-08-03T21:14
-updated: 2024-08-11T18:08
+updated: 2024-09-01T14:23
 ---
-Khái niệm:: [Bản ngã](../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/S%E1%BB%B1%20s%E1%BB%91ng,%20nh%E1%BA%ADn%20th%E1%BB%A9c/B%E1%BA%A3n%20ng%C3%A3.md), [Mối quan tâm](../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/S%E1%BB%B1%20s%E1%BB%91ng,%20nh%E1%BA%ADn%20th%E1%BB%A9c/M%E1%BB%91i%20quan%20t%C3%A2m.md)
+Khái niệm:: [Bản ngã](../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Tri%E1%BA%BFt%20h%E1%BB%8Dc/B%E1%BA%A3n%20ng%C3%A3.md), [Mối quan tâm](../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Tri%E1%BA%BFt%20h%E1%BB%8Dc/M%E1%BB%91i%20quan%20t%C3%A2m.md)
 
 > Cái mà ta gọi là bản ngã, tôi xem nó là một tập hợp các mối quan tâm kết hợp với nhau, vốn không phải là một mối quan tâm đơn lẻ hoặc là tổng cơ học của từng mối quan tâm đơn lẻ. Nói cách khác, không phải việc bạn thích ăn mỳ udon, yêu thơ ca và hoa lily sẽ tạo nên bản ngã của bạn, mà nó là sự kết hợp giữa các mối quan tâm đó và các mối quan tâm khác nữa, tất cả sẽ cùng làm việc với nhau để định hướng hành vi của bạn.
 >
