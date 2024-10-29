@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2024-09-01T01:07
-updated: 2024-09-02T02:25
+updated: 2024-09-02T13:13
 alias:
+  - Ham muốn sẽ dẫn đến chấp, và chấp là kết quả của ham muốn
   - Ham muốn là việc đáp ứng nhu cầu khi chưa quan sát được nhu cầu của bản thân
   - Chấp là trạng thái của tư duy khi đang có ham muốn
   - Các tài liệu khoa học không bàn về chấp, mà luôn quy vấn đề thành ham muốn
