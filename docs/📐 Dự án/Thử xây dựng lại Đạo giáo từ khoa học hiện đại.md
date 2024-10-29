@@ -1,15 +1,14 @@
 ---
 share: true
 created: 2024-09-01T01:45
-updated: 2024-09-01T01:47
+updated: 2024-09-03T00:27
 ---
-Năm mầu khiến người mù mắt.
-Năm giọng khiến người điếc tai.
-Năm mùi khiến người tê lưỡi.
-Sải ngựa săn bắn,
-Khiến lòng người hoá cuồng.
-
-(Lão Tử, Đạo Đức Kinh)
+*Năm mầu khiến người mù mắt.*
+*Năm giọng khiến người điếc tai.*
+*Năm mùi khiến người tê lưỡi.*
+*Sải ngựa săn bắn,*
+*Khiến lòng người hoá cuồng.*
+— Lão Tử, Đạo Đức Kinh
 
 Một trong những lý do quan trọng để tôi làm dự án Quả Cầu này là để làm rõ những quan điểm của Đạo giáo (và cả Phật giáo) theo kết quả khoa học.
 

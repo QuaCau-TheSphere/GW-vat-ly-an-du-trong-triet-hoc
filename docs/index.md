@@ -15,3 +15,5 @@ Vật lý có thể làm gì cho những ngành khác?
 
 Vật lý, sinh học, nhận thức, triết học, nhân học
 Vật lý, ẩn dụ, sự sống, nhân học, triết học
+
+Như những người mù sờ voi. Thì việc sờ thấy cái ngà và gọi là thì cũng là chuyện bình thường. 
