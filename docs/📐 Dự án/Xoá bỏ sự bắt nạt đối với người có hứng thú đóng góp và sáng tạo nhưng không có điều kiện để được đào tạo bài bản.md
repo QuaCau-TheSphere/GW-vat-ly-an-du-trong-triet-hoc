@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-08T11:46
-updated: 2024-08-13T09:46
+updated: 2025-08-30T18:52
 ---
 Khái niệm:: [Crackpot](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Crackpot.md)
 [What I learned as a hired consultant for autodidact physicists](https://aeon.co/ideas/what-i-learned-as-a-hired-consultant-for-autodidact-physicists) 
@@ -12,7 +12,7 @@ Khái niệm:: [Crackpot](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE
 
 
 không khác gì bắt nạt qua mạng (cyber bully)
-[Deleuze dao động tử](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Tri%E1%BA%BFt%20h%E1%BB%8Dc/Deleuze/Deleuze%20dao%20%C4%91%E1%BB%99ng%20t%E1%BB%AD.md)
+[Deleuze lặp lại](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Tri%E1%BA%BFt%20h%E1%BB%8Dc/Deleuze/Deleuze%20l%E1%BA%B7p%20l%E1%BA%A1i.md)
 - bắt nạt, xem thường
 - ngộ chữ
 [Tranh luận người thép](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Tri%E1%BA%BFt%20h%E1%BB%8Dc/Tranh%20lu%E1%BA%ADn%20ng%C6%B0%E1%BB%9Di%20th%C3%A9p.md)
